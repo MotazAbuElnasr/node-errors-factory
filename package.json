@@ -1,0 +1,22 @@
+{
+  "name": "@motazabuelnasr/verylodash",
+  "version": "1.0.0",
+  "description": "javascript helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MotazAbuElnasr/node-errors-factory.git"
+  },
+  "author": "MotazAbuElnasr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MotazAbuElnasr/node-errors-factory/issues"
+  },
+  "homepage": "https://github.com/MotazAbuElnasr/node-errors-factory#readme"
+}
