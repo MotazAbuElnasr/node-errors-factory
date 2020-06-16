@@ -1,7 +1,7 @@
 {
-  "name": "@motazabuelnasr/verylodash",
+  "name": "@motazabuelnasr/node-errors-factory",
   "version": "1.0.0",
-  "description": "javascript helpers",
+  "description": "Some common node errors to throw",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
